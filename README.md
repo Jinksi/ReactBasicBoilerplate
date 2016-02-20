@@ -1,23 +1,30 @@
 # ReduxSimpleStarter
 
-###Getting Started###
+A Simple React-Redux Boilerplate:
+- React
+- Redux
+- Babel & Webpack with Browser Refreshing
+- [Classnames](https://github.com/JedWatson/classnames)
+- [Lodash](https://lodash.com/)
+- [Bulma CSS](http://bulma.io/)
 
-There are two methods for getting started with this repo.
 
-####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+### Installation
 
 ```
-	> npm install
-	> npm start
+git clone git@github.com:jinksi/ReduxSimpleStarter.git
+cd ReduxSimpleStarter
+npm install
+npm start
 ```
+
+### Browser Refreshing using webpack-dev-server
+If you get an error on `npm start` try installing `webpack-dev-server` globally.
+
+```
+npm install -g webpack-dev-server
+```
+-----
+### Todo
+- [ ] Add Gulp Pipeline for Sass
+- [ ] Add [postcss](https://github.com/postcss/postcss) for [autoprefixer](https://github.com/postcss/postcs) &amp; [rucksack](https://simplaio.github.io/rucksack/) support.
