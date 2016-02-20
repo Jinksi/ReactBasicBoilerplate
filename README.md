@@ -8,6 +8,7 @@ A Simple React-Redux Boilerplate:
 - [Lodash](https://lodash.com/)
 - [Bulma CSS](http://bulma.io/)
 
+Built upon [StephenGrider/ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter)
 
 ### Installation
 
