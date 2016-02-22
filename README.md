@@ -12,7 +12,7 @@ Built upon [Jinksi/ReduxSimpleStarter](https://github.com/Jinksi/ReduxSimpleStar
 
 ```
 git clone git@github.com:jinksi/ReduxSimpleStarter.git
-cd ReduxSimpleStarter
+cd ReactBasicBoilerplate
 npm install
 npm start
 ```
